@@ -1,0 +1,43 @@
+body{
+    background-color: grey;
+}
+div{
+    position: absolute;
+    background-color: khaki;
+    margin-left: 20%;
+    margin-top: 10%;
+    width: 15%;
+    height: 450px;
+    padding: 10px;
+    padding-left: 5px;
+}
+
+section{
+    position: absolute;
+    background-color: white;
+    margin-left: 35%;
+    margin-top: 10%;
+    width: 40%;
+    height: 450px;
+    padding: 10px;
+
+}
+
+li{
+    list-style: none;
+    padding: 3px;
+}
+
+input{
+    width: 60%;
+}
+
+#gros{
+    height: 200px;
+
+}
+
+#bouton{
+    width: 30%;
+}
+
